@@ -1,0 +1,1 @@
+Website ini dibuat untuk mengumpulkan laporan kerusakan dari komputer yang ada di laboratorium komputer di SMK Brantas Karangkates. Dengan begitu, pelaporan komputer rusak tidak perlu dilakukan secara tatap muka dan pelaporan bisa lebih jelas dan terkendali.
